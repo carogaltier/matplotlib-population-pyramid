@@ -24,3 +24,19 @@ You can install the required libraries using:
 ```bash
 pip install matplotlib pandas numpy
 
+## Author
+
+**María Carolina González Galtier**
+
+- [Profile](https://github.com/carogaltier "María Carolina González Galtier")
+
+## License
+[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+
+## 🤝 Support
+
+Contributions, issues, and feature requests are welcome!
+
+Give a ⭐️ if you like this project!
+
+
