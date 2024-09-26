@@ -5,6 +5,7 @@ This repository contains a comprehensive step-by-step tutorial on how to create 
 ## 🌟 Overview
 Population pyramids are an essential tool in demographic analysis, providing a visual representation of the age and sex distribution in a population. This tutorial notebook aims to demonstrate how to construct a population pyramid using Matplotlib, adding various enhancements for a polished and professional result.
 
+![matplotlib-population-pyramid](https://github.com/user-attachments/assets/a16b50be-5334-44df-93ec-386ed5a60956)
 
 
 ## 📝 What You'll Learn
