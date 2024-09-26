@@ -24,6 +24,7 @@ Population pyramids are an essential tool in demographic analysis, providing a v
 You can install the required libraries using:
 ```bash
 pip install matplotlib pandas numpy
+```
 
 ## Author
 
